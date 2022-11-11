@@ -5,7 +5,7 @@ const Coins = ({coins}) => {
   return (
     <div className='container'>
         <div className="heading">
-            <p>No</p>
+            <p>No</p> 
             <p className='coin-name'>Coins</p>
             <p>Price</p>
             <p>24h</p>

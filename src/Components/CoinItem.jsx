@@ -1,7 +1,7 @@
 import React from 'react'
 
 const CoinItem = ({coins}) => {
-  return (
+  return (  
     <div className='coin-row'>
         <p>{coins.market_cap_rank}</p>
         <div className="img-symbol">
